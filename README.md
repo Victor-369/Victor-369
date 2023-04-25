@@ -1,11 +1,16 @@
-# ¡Hola!
-#### Soy Víctor. Programador web con experiencia en PL/SQL. Interesado en el desarrollo y mantenimiento. Generando proyectos en mi tiempo libre y ampliando conocimientos.
+<h1>¡Hola!</h1>
+
+<p>
+ Soy Víctor. Programador web con experiencia en PL/SQL. Interesado en el desarrollo y mantenimiento. Generando proyectos en mi tiempo libre y ampliando conocimientos.
+</p>
+
+<br>
 
 ## Conocimientos
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,php,linux)](https://skillicons.dev)
 
 ## Conocimientos básicos
-[![My Skills](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,postman)](https://skillicons.dev)
 
 
 ## Aprendiendo 
