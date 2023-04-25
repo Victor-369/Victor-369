@@ -1,7 +1,7 @@
 <h1>¡Hola!</h1>
 
 <p>
- Soy Víctor. Programador web con experiencia en PL/SQL. Interesado en el desarrollo y mantenimiento. Generando proyectos en mi tiempo libre y ampliando conocimientos.
+ Soy Víctor. Programador web con experiencia en PL/SQL. Interesado en el desarrollo y mantenimiento (<i>backend developer</i>). Generando proyectos en mi tiempo libre y ampliando conocimientos.
 </p>
 
 <br>
