@@ -1,3 +1,5 @@
+<h1>Hola
+
 #### Contacto
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://es.linkedin.com/in/garcia-victor) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Victor-369)
 
@@ -17,5 +19,7 @@
 ![git](https://camo.githubusercontent.com/ff63f57a8d65774b5c2ed69f549c4aec01fc5ce30f381fd80ebc4cd1d9ecdbd5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d6769742d4630353033323f7374796c653d666c61742d737175617265266c6f676f3d676974266c6f676f436f6c6f723d7768697465) 
 ![github](https://camo.githubusercontent.com/b620c6ad3a16345749694c16a7c06a101c9c7757179e6072352e4035fa562837/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769746875622d3138313731373f7374796c653d666c61742d737175617265266c6f676f3d676974687562266c6f676f436f6c6f723d7768697465) 
 
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Victor-369&show_icons=true&theme=merko&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+&nbsp;
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Victor-369&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
