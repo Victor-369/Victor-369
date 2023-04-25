@@ -16,6 +16,9 @@ Soy Víctor, programador web con experiencia en PL/SQL. Interesado en el desarro
 ## Aprendiendo 
 [![My Skills](https://skillicons.dev/icons?i=bootstrap,laravel)](https://skillicons.dev)
 
+## IDE's
+[![My Skills](https://skillicons.dev/icons?i=vscode,eclipse)](https://skillicons.dev)
+
 ## Contacto
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://es.linkedin.com/in/garcia-victor) 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Victor-369)
