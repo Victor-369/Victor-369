@@ -1,25 +1,16 @@
-<h1>Hola
+# ¡Hola!
+#### Soy Víctor. Programador web con experiencia en PL/SQL. Interesado en el desarrollo y mantenimiento. Generando proyectos en mi tiempo libre.
 
-#### Contacto
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://es.linkedin.com/in/garcia-victor) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Victor-369)
+## Conocimientos
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,php,linux)](https://skillicons.dev)
 
-#### Aprendiendo
-![Bootstrap](https://camo.githubusercontent.com/319a78c9de0d7f48703baf164195e6de700c05fe8fec9d33e70c54f1f0e1e6a0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d426f6f7473747261702d3739353242333f7374796c653d666c61742d737175617265266c6f676f3d626f6f747374726170266c6f676f436f6c6f723d7768697465)
-![Laravel](https://camo.githubusercontent.com/227eb8171dec7b88bf5d97ae9174217a89e2bd1cb6d49d08f1c0450a9befc932/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c61726176656c2d4646324432303f7374796c653d666c61742d737175617265266c6f676f3d6c61726176656c266c6f676f436f6c6f723d7768697465)
-
-#### Conocimientos
-![HTML](https://camo.githubusercontent.com/0c3a16a22ae058cfe38a06dc9ea16404cf006409262f547c9ccfa3ec8b30f71e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d48544d4c352d4533344632363f7374796c653d666c61742d737175617265266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465)
-![CSS](https://camo.githubusercontent.com/aeb2763ddb1015b596d8082654f03579aa2302fe75ab3807c4fe380b81e1178a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d435353332d3135373242363f7374796c653d666c61742d737175617265266c6f676f3d63737333266c6f676f436f6c6f723d7768697465) 
-![JS](https://camo.githubusercontent.com/25bf8c5adb6b6ae042450dcc87451ee8029da7dec91a9dd8efbcc00f0484003e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176615363726970742d4637444631453f7374796c653d666c61742d737175617265266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d303030)
-![PHP](https://camo.githubusercontent.com/3c040aa18d607ddc45e3c4347869771ac398a8bb1296ffe531d6c9bd0ceaeac7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d5048502d3737374242343f7374796c653d666c61742d737175617265266c6f676f3d706870266c6f676f436f6c6f723d7768697465) 
-![MYSQL](https://camo.githubusercontent.com/4eade77f6242a74645c408f1cc48b4c05f3c7c8a74d0bf15c2a1e259e4d357d9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4d7953514c2d3434373941313f7374796c653d666c61742d737175617265266c6f676f3d6d7973716c266c6f676f436f6c6f723d7768697465) 
-![mariadb](https://camo.githubusercontent.com/949835584f355ecf507c0c7faf131acfa99e5ace82b902c2b9332bae05c5141f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4d6172696144422d3030333534353f7374796c653d666c61742d737175617265266c6f676f3d6d617269616462266c6f676f436f6c6f723d7768697465)
-
-#### Conocimientos básicos
-![git](https://camo.githubusercontent.com/ff63f57a8d65774b5c2ed69f549c4aec01fc5ce30f381fd80ebc4cd1d9ecdbd5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d6769742d4630353033323f7374796c653d666c61742d737175617265266c6f676f3d676974266c6f676f436f6c6f723d7768697465) 
-![github](https://camo.githubusercontent.com/b620c6ad3a16345749694c16a7c06a101c9c7757179e6072352e4035fa562837/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769746875622d3138313731373f7374796c653d666c61742d737175617265266c6f676f3d676974687562266c6f676f436f6c6f723d7768697465) 
+## Conocimientos básicos
+[![My Skills](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev)
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Victor-369&show_icons=true&theme=merko&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-&nbsp;
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Victor-369&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+## Aprendiendo 
+[![My Skills](https://skillicons.dev/icons?i=bootstrap,laravel)](https://skillicons.dev)
+
+## Contacto
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://es.linkedin.com/in/garcia-victor) 
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Victor-369)
