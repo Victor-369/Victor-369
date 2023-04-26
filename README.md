@@ -4,7 +4,7 @@
 
 <br>
 
-<h3> Sobre mi </h3>
+<h3> Sobre mí </h3>
 <p>Programador web con experiencia en PL/SQL. Interesado en el desarrollo y mantenimiento (<i>backend developer</i>). Generando proyectos en mi tiempo libre, ampliando conocimientos y experiencia. </p>
 
 <h3> Conocimientos </h3>
@@ -19,7 +19,7 @@
 - &nbsp; Postman <br>
 
 
-<h3> Aprendiento </h3>
+<h3> Aprendiendo </h3>
 - Bootstrap <br>
 - Laravel <br>
 
