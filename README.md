@@ -10,17 +10,14 @@
 - &nbsp; PHP | Oracle PL/SQL | MySQL | MariaDB <br>
 - &nbsp; Visual Studio Code | DBeaver | Eclipse  <br>
 - &nbsp; Linux <br>
-- &nbsp; Photoshop | GIMP <br>
 
 <h3> Conocimientos básicos </h3>
 - &nbsp; Git | GitHub <br>
 - &nbsp; Postman <br>
 
-
 <h3> Aprendiendo </h3>
 - &nbsp; Bootstrap <br>
 - &nbsp; Laravel <br>
-
 
 <h3> Posibles formaciones futuras </h3>
 - &nbsp; Python <br>
@@ -38,6 +35,3 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Victor-369&theme=transparent&locale=es&date_format=j%20M%5B%20Y%5D&card_width=473)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Victor-369&layout=compact)](https://github.com/Victor-369/github-readme-stats)
-
-
-
