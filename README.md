@@ -7,8 +7,9 @@
 
 <h3> Conocimientos </h3>
 - &nbsp; HTML5 | CSS3 | JavaScript <br>
-- &nbsp; PHP | Oracle PL/SQL | MySQL | MariaDB <br>
-- &nbsp; Visual Studio Code | DBeaver | Eclipse  <br>
+- &nbsp; PHP <br>
+- &nbsp; Oracle PL/SQL | MySQL | MariaDB | SQL Server <br>
+- &nbsp; Visual Studio Code | DBeaver | Eclipse <br>
 - &nbsp; Linux <br>
 
 <h3> Conocimientos básicos </h3>
