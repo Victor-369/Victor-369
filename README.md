@@ -15,9 +15,9 @@
 <h3> Conocimientos básicos </h3>
 - &nbsp; Git | GitHub <br>
 - &nbsp; Postman <br>
+- &nbsp; Bootstrap <br>
 
 <h3> Aprendiendo </h3>
-- &nbsp; Bootstrap <br>
 - &nbsp; Laravel <br>
 
 <h3> Posibles formaciones futuras </h3>
