@@ -22,7 +22,6 @@
 
 <h3> Posibles formaciones futuras </h3>
 - &nbsp; Python <br>
-- &nbsp; Full-Stack <br>
 - &nbsp; Inteligencia Artificial <br>
 
 <h3> Contáctame </h3>
