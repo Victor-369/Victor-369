@@ -16,9 +16,9 @@
 - &nbsp; WordPress <br>
 - &nbsp; Bash Shell <br>
 - &nbsp; Symfony <br>
+- &nbsp; Docker <br>
 
 <h3> Posibles formaciones futuras </h3>
-- &nbsp; Docker <br>
 - &nbsp; React <br>
 
 <h3> Contáctame </h3>
