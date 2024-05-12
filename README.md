@@ -1,24 +1,25 @@
 <h2> Hola, soy Víctor 👋 </h2>
 
 <h3> Sobre mí </h3>
-<p>Programador web con experiencia en PL/SQL. Interesado en el desarrollo y mantenimiento (<i>backend developer</i>). Generando proyectos web en mi tiempo libre, ampliando conocimientos y experiencia. </p>
+<p>Programador web. Interesado en el desarrollo y mantenimiento. Generando proyectos web en mi tiempo libre, ampliando conocimientos y experiencia. </p>
 
 <h3> Conocimientos </h3>
 - &nbsp; HTML | CSS | JavaScript <br>
 - &nbsp; PHP <br>
-- &nbsp; Oracle PL/SQL | MySQL | MariaDB | SQL Server <br>
-- &nbsp; Visual Studio Code | DBeaver | Eclipse <br>
 - &nbsp; Linux <br>
 - &nbsp; Git | GitHub <br>
 - &nbsp; Postman <br>
+- &nbsp; Visual Studio Code | DBeaver | Eclipse <br>
 - &nbsp; Bootstrap <br>
 - &nbsp; Laravel <br>
 - &nbsp; WordPress <br>
 - &nbsp; Bash Shell <br>
 - &nbsp; Symfony <br>
 - &nbsp; Docker <br>
+- &nbsp; Oracle PL/SQL | MySQL | MariaDB | SQL Server <br>
 
 <h3> Posibles formaciones futuras </h3>
+- &nbsp; Angular <br>
 - &nbsp; React <br>
 
 <h3> Contáctame </h3>
