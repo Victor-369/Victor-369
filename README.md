@@ -12,14 +12,13 @@
 - &nbsp; Visual Studio Code | DBeaver | Eclipse <br>
 - &nbsp; Bootstrap <br>
 - &nbsp; Laravel <br>
+- &nbsp; Symfony <br>
 - &nbsp; WordPress <br>
 - &nbsp; Bash Shell <br>
-- &nbsp; Symfony <br>
 - &nbsp; Docker <br>
 - &nbsp; Oracle PL/SQL | MySQL | MariaDB | SQL Server <br>
 
-<h3> Posibles formaciones futuras </h3>
-- &nbsp; Angular <br>
+<h3> En formación </h3>
 - &nbsp; React <br>
 
 <h3> Contáctame </h3>
