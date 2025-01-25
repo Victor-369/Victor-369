@@ -21,6 +21,9 @@
 <h3> En formación </h3>
 - &nbsp; React <br>
 
+<h3> Pendiente </h3>
+- &nbsp; Angular <br>
+
 <h3> Contáctame </h3>
 <p align="left">
 &nbsp; <a href="https://es.linkedin.com/in/garcia-victor" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
