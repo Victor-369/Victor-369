@@ -15,6 +15,7 @@
 - &nbsp; Symfony <br>
 - &nbsp; WordPress <br>
 - &nbsp; Bash Shell <br>
+- &nbsp; API RESTful <br>
 - &nbsp; Docker <br>
 - &nbsp; Oracle PL/SQL | MySQL | MariaDB | SQL Server <br>
 
