@@ -19,9 +19,6 @@
 - &nbsp; Oracle PL/SQL | MySQL | MariaDB | SQL Server <br>
 
 <h3> En formación </h3>
-- &nbsp; React <br>
-
-<h3> Pendiente </h3>
 - &nbsp; Angular <br>
 
 <h3> Contáctame </h3>
