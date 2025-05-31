@@ -1,9 +1,9 @@
-<h2> Hola, soy Víctor 👋 </h2>
+<h2> Hi, I'm Víctor 👋 </h2>
 
-<h3> Sobre mí </h3>
-<p>Programador web. Interesado en el desarrollo y mantenimiento. Generando proyectos web en mi tiempo libre, ampliando conocimientos y experiencia. </p>
+<h3> About Me </h3>
+<p>Web developer. Interested in development and maintenance. Creating web projects in my free time, expanding my knowledge and experience.</p>
 
-<h3> Conocimientos </h3>
+<h3> Skills </h3>
 - &nbsp; HTML | CSS | JavaScript <br>
 - &nbsp; PHP <br>
 - &nbsp; Linux <br>
@@ -15,14 +15,14 @@
 - &nbsp; Symfony <br>
 - &nbsp; WordPress <br>
 - &nbsp; Bash Shell <br>
-- &nbsp; API RESTful <br>
+- &nbsp; RESTful API <br>
 - &nbsp; Docker <br>
 - &nbsp; Oracle PL/SQL | MySQL | MariaDB | SQL Server <br>
 
-<h3> En formación </h3>
+<h3> Currently Learning </h3>
 - &nbsp; Angular <br>
 
-<h3> Contáctame </h3>
+<h3> Contact Me </h3>
 <p align="left">
 &nbsp; <a href="https://es.linkedin.com/in/garcia-victor" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
 &nbsp; <a href="https://github.com/Victor-369" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/github.png" width="50" /></a>
