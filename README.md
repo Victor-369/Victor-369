@@ -1,7 +1,7 @@
 <h2> Hi, I'm Víctor 👋 </h2>
 
 <h3> About Me </h3>
-<p>Web developer. Interested in development and maintenance. Creating web projects in my free time, expanding my knowledge and experience.</p>
+<p>Backend Developer. Creating projects in my free time, expanding my knowledge and experience.</p>
 
 <h3> Skills </h3>
 - &nbsp; HTML | CSS | JavaScript <br>
