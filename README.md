@@ -20,12 +20,11 @@
 - &nbsp; Oracle PL/SQL | MySQL | MariaDB | SQL Server <br>
 
 <h3> Currently Learning </h3>
-- &nbsp; Angular <br>
+- &nbsp; Java <br>
 
 <h3> Contact Me </h3>
 <p align="left">
 &nbsp; <a href="https://es.linkedin.com/in/garcia-victor" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
-&nbsp; <a href="https://github.com/Victor-369" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/github.png" width="50" /></a>
 </p>
 
 <hr>
