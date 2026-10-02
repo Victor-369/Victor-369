@@ -26,9 +26,3 @@
 <p align="left">
 &nbsp; <a href="https://es.linkedin.com/in/garcia-victor" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
 </p>
-
-<hr>
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Victor-369&theme=transparent&locale=es&date_format=j%20M%5B%20Y%5D&card_width=473)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Victor-369&layout=compact)](https://github.com/Victor-369/github-readme-stats)
