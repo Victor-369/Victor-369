@@ -13,7 +13,7 @@
 Me gusta aprender practicando: monto proyectos en mi tiempo libre, pruebo tecnologías nuevas y documento lo que aprendo.
 
 - 🔭 Trabajo con **Java 25**.
-- 🌱 Estoy profundizando en **principios SOLID** y **patrones de diseño**.
+- 🌱 Estoy profundizando en **principios SOLID**, **patrones de diseño** y **Spring Boot**.
 
 ## 📈 Actividad
 
